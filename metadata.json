@@ -1,0 +1,6 @@
+{
+  "name": "Resonance Music",
+  "description": "Full-stack high-resolution music streaming app with real-time audio controls, drag-and-drop playlist builder, offline caching, cloud storage sync, and social sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
